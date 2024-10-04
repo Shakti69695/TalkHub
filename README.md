@@ -1,0 +1,1 @@
+TalkHub is a real-time chat application built on the MERN stack, utilizing MongoBD, Express.js, React and Node.js. It leverages Socket.io for seamless, instant communication between users, enabiling dynamic interactions.
